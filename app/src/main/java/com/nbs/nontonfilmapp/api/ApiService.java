@@ -13,7 +13,7 @@ import retrofit.Retrofit;
  * Created by Sidiq on 26/10/2015.
  */
 public class ApiService {
-    public final static String APIKEY = "7012fc3c96c9f6f707e4edb9c9725718";
+    public final static String APIKEY = "-- drop your awesome key here :P --";
 
     public final static String BASE_API_URL = "http://api.themoviedb.org";
     public final static String ROOT_POSTER_IMAGE_URL = "http://image.tmdb.org/t/p/w185";
