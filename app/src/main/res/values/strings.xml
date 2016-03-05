@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">NontonFilmApp</string>
+    <string name="app_name">Nonton Film App</string>
+    <string name="error_request">Error Request</string>
+    <string name="retry_request">Retry Request</string>
+    <string name="menu_filter">Filter Movie</string>
+    <string name="movie_sort_by">Movie Sort By</string>
+    <string name="sort_by_most_popular">Sort By Most Popular</string>
+    <string name="sort_by_highest_rated">Sort By Highest Rated</string>
 </resources>
